@@ -27,6 +27,8 @@ One way we wanted to do that was to make the names in the scene match the names 
 
 ### Future Works
 
+There are several directions that GhostWriter can go in the future. It can be made to be more like a cowriter, where it is given the semantic beats of a scene and generates a scene more closely in line with that prompt. We can train several different models on different parts of scenes (beginnings, dialogue heavy, action, conclusions, etc) and run several models based on a prompt to generate a result that follows story structure more.
+
 ### Examples
 
 
