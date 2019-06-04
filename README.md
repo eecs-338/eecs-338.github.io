@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to GhostWriter
+
+Films and TV shows are being produced at such a fast pace that there are never enough writers to write everything. If there was an AI that could generate scenes to use, even more films/TV shows could be made. Additionally, an AI can be a useful tool to help alleviate writer’s block, coming up with plots that might never have been thought up otherwise.
+
+Movies are expensive, and human being can be unreliable. They miss deadlines, write inconsistencies, and don’t always listen to feedback from their collaborators. By cutting out the human error, we can make consistent, commercial scripts that guarantee success and circumvent unnecessary conflict, writer’s block, and errors.
+
 
 You can use the [editor on GitHub](https://github.com/eecs-338/eecs-338.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
