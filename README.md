@@ -10,7 +10,7 @@ We trained our state-of-the-art machine learning models on hundreds of thousands
 
 ### Description of Model
 
-### Different Parsing Explorations that we did
+### Different Parsing Explorations That We Did
 
 We tried several different ways to parse the text that was generated from the model. The first thing we did was set up a formatter. This took the output from the model and formatted it to be more in line with traditional film script formatting. We were successful in this.
 
