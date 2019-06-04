@@ -10,6 +10,9 @@ We trained our state-of-the-art machine learning models on hundreds of thousands
 
 ### Description of Model
 
+Scripts are generated using a transformer-based architecture built on the OpenAI GPT-2 architecture and  implemented in PyTorch.  The model consists of a stack of 12 transformer decoders with a total of 117 million parameters. Pretraining was performed on over 40 GB of internet text (~8 Million webpages). To learn the syntax and formatting of movie scripts,  the model was fine-tuned on movie scripts selected from Film Corpus 2.0. In particular, we fine-tuned models on 155 Sci-Fi and 192 Romance movie scripts to demonstrate the ability of our model at learning not only the format of movie scripts but also the stylistic variations in each genre. 
+
+
 ### Different Parsing Explorations That We Did
 
 We tried several different ways to parse the text that was generated from the model. The first thing we did was set up a formatter. This took the output from the model and formatted it to be more in line with traditional film script formatting. We were successful in this.
