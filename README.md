@@ -15,15 +15,18 @@ Scripts are generated using a transformer-based architecture built on the OpenAI
 
 ### Different Parsing Explorations That We Did
 
-We tried several different ways to parse the text that was generated from the model. The first thing we did was set up a formatter. This took the output from the model and formatted it to be more in line with traditional film script formatting. We were successful in this.
+We tried several different ways to parse the text that was generated from the model. The first thing we did was set up a formatter. This took the output from the model and utilized patterns and occurences to determine the different sections of the script and formatted it to be more in line with traditional film script formatting. We were successful in this.
 
 We tried implementing a grammar parser to ensure that all of the output from the model followed basic grammar rules. We tried two grammar parsers for this, the first (Language_Check) of which had trouble integrating with the model since it was Java based. The second (Ginger) worked on smaller input without any issues, it ended up causing more problems than it solved for the larger output from the model - most notably that it changed the first character in each line to be capitalized (which our model doesn't follow, since there are line breaks as a result of script formatting). In the end, we scrapped the grammar parser from the model.
 
-We then worked to parse out the different characters who were in the scenes. We were able to successfully do this, primarily by grabbing words in all capital letters (with a few other conditions). We intended to use this as a way of ensuring consitency amongst who the characters in the scene were. 
+We then worked to parse out the different characters who were in the scenes. We were able to successfully do this, primarily by grabbing words in all capital letters (with a few other conditions). We intended to use this as a way of ensuring consistency amongst who the characters in the scene were. It would also be capable of storing certain traits and knowledge about each character, though we never got to a point where this would or could be utilized.
 
 One way we wanted to do that was to make the names in the scene match the names in the prompt. We encountered difficulties with this in matching the names, due to having limited prompts. For example, in some prompts, there would be nothing more than "VADER \n \n Luke. I am your father." In this example, there are two characters who we want to be in the scene, Vader and Luke. However, there is not surefire way to find the name "Luke" since it is not all capitalized.
 
 ### Limitations
+We found it difficult for the program to pick up on characters, themes, and objects that were present in the prompts. This limited our ability to funnel Ghostwriter towards a certain thematic sequence. It also restricted our ability to continue the story while adding elements that would progress the storyline while mantaining some semblance of continuity.
+
+
 
 ### Future Works
 
