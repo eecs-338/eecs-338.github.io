@@ -30,7 +30,7 @@ We found it difficult for the program to pick up on characters, themes, and obje
 
 ### Future Works
 
-There are several directions that GhostWriter can go in the future. It can be made to be more like a cowriter, where it is given the semantic beats of a scene and generates a scene more closely in line with that prompt. We can train several different models on different parts of scenes (beginnings, dialogue heavy, action, conclusions, etc) and run several models based on a prompt to generate a result that follows story structure more.
+There are several directions that GhostWriter can go in the future. It can be made to be more like a cowriter, where it is given the semantic beats of a scene and generates a scene more closely in line with that prompt. We can train several different models on different parts of scenes (beginnings, dialogue heavy, action, conclusions, etc) and run several models based on a prompt to generate a result that follows story structure more. We could also have models that are trained on different character archetypes so that we could introduce a character that would then act in a more predictable manner.
 
 ### Examples
 
