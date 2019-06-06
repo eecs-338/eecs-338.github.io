@@ -34,4 +34,5 @@ There are several directions that GhostWriter can go in the future. It can be ma
 
 ### Examples
 
-
+![Screenshot](Screen Shot 2019-06-05 at 8.30.04 PM.png)
+![Screenshot](screenshot.png)
