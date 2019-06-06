@@ -44,12 +44,12 @@ INPUT: "Harry throws the vodka on the ground, shattering the model. \n \n HARRY 
 
 INPUT: "Luke and Han grabs blasters and shoot at the droids. Artoo and Threepio hide for cover as the droids fire back at them. They must hurry or Leia will die."
 
-![image 2](https://github.com/eecs-338/eecs-338.github.io/blob/master/Screen%20Shot%202019-06-05%20at%208.30.16%20PM.png)
+![image 2](https://raw.githubusercontent.com/eecs-338/eecs-338.github.io/master/Screen%20Shot%202019-06-05%20at%208.30.16%20PM.png)
 
 INPUT: "HAN \n \n Luke look out, there is a stormtrooper shooting at you"
 
-![image 3](https://github.com/eecs-338/eecs-338.github.io/blob/master/Screen%20Shot%202019-06-05%20at%208.30.46%20PM.png)
+![image 3](https://raw.githubusercontent.com/eecs-338/eecs-338.github.io/master/Screen%20Shot%202019-06-05%20at%208.30.46%20PM.png)
 
 INPUT: "PATRICK \n \n I love you Sally. I've loved you since the moment I met you. \n \n SALLY \n \n I love you Patrick. I've loved you since the moment I laid eyes on you. \n \n Patrick and Sally kiss."
 
-![image 4](https://github.com/eecs-338/eecs-338.github.io/blob/master/Screen%20Shot%202019-06-05%20at%208.31.03%20PM.png)
+![image 4](https://raw.githubusercontent.com/eecs-338/eecs-338.github.io/master/Screen%20Shot%202019-06-05%20at%208.31.03%20PM.png)
