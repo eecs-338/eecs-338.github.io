@@ -40,7 +40,7 @@ When it comes to our original goal, we were definitely more optimistic that we w
 ### Examples
 INPUT: "Harry throws the vodka on the ground, shattering the model. \n \n HARRY You did this. You caused me to throw the vodka on the ground and shatter it." x3
 
-![image 1](https://github.com/eecs-338/eecs-338.github.io/blob/master/Screen%20Shot%202019-06-05%20at%208.30.04%20PM.png)
+![image 1](https://raw.githubusercontent.com/eecs-338/eecs-338.github.io/master/Screen%20Shot%202019-06-05%20at%208.30.04%20PM.png)
 
 INPUT: "Luke and Han grabs blasters and shoot at the droids. Artoo and Threepio hide for cover as the droids fire back at them. They must hurry or Leia will die."
 
