@@ -32,6 +32,9 @@ We found it difficult for the program to pick up on characters, themes, and obje
 
 There are several directions that GhostWriter can go in the future. It can be made to be more like a cowriter, where it is given the semantic beats of a scene and generates a scene more closely in line with that prompt. We can train several different models on different parts of scenes (beginnings, dialogue heavy, action, conclusions, etc) and run several models based on a prompt to generate a result that follows story structure more. We could also have models that are trained on different character archetypes so that we could introduce a character that would then act in a more predictable manner.
 
+### How our model compares to our goal
+When it comes to our original goal, we were definitely more optimistic that we would have greater control over the direction of the output and that the continuity between continued prompts would be more steadfast. However much of our goal was achieved. Ghostwriter is able to generate scenes from a given input that completely follows the structure and format of a screenplay. It achieves very different stylistic results when utilizing the scifi model verses the romance model. We even found an added bonus of Ghostwriters knack for fan fiction if the prompt introduces a prominent character from one of the scripts it was trained on.
+
 ### Examples
 INPUT: "Harry throws the vodka on the ground, shattering the model. \n \n HARRY You did this. You caused me to throw the vodka on the ground and shatter it." x3
 
