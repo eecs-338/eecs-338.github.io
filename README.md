@@ -34,6 +34,7 @@ There are several directions that GhostWriter can go in the future. It can be ma
 
 ### Examples
 
-![Screenshot](Screen Shot 2019-06-05 at 8.30.04 PM.png)
-
-![image one](https://github.com/eecs-338/eecs-338.github.io/blob/master/Screen%20Shot%202019-06-05%20at%208.30.04%20PM.png)
+![image 1](https://github.com/eecs-338/eecs-338.github.io/blob/master/Screen%20Shot%202019-06-05%20at%208.30.04%20PM.png)
+![image 2](https://github.com/eecs-338/eecs-338.github.io/blob/master/Screen%20Shot%202019-06-05%20at%208.30.16%20PM.png)
+![image 3](https://github.com/eecs-338/eecs-338.github.io/blob/master/Screen%20Shot%202019-06-05%20at%208.30.46%20PM.png)
+![image 4](https://github.com/eecs-338/eecs-338.github.io/blob/master/Screen%20Shot%202019-06-05%20at%208.31.03%20PM.png)
