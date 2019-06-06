@@ -1,6 +1,7 @@
 ## Welcome to GhostWriter
 
 a project for EECS 338: AI Practicum, taught by Professor Kristian Hammond
+
 designed and developed by Andrew Bosset, Jared Fernandez, Joshua Fields, and Naeem Patel
 
 GhostWriter is a system that generates film scenes. Writers often hit writer's block and do not know how to continue writing their scripts. Our goal was to build a system that helps break through that writer's block and give ideas of how to move forward. Our system works by taking in a prompted input from the user and outputting a newly generated film scene.
