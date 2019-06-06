@@ -1,5 +1,7 @@
 ## Welcome to GhostWriter
 
+GhostWriter is a system that generates film scenes. Writers often hit writer's block and do not know how to continue writing their scripts. Our goal was to build a system that helps break through that writer's block and give ideas of how to move forward. Our system works by taking in a prompted input from the user and outputting a newly generated film scene.
+
 ### Motivation
 
 Films and TV shows are being produced at such a fast pace that there are never enough writers to write everything. If there was an AI that could generate scenes to use, even more films/TV shows could be made. Additionally, an AI can be a useful tool to help alleviate writer’s block, coming up with plots that might never have been thought up otherwise.
